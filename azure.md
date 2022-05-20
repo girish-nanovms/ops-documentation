@@ -36,7 +36,7 @@ You need to add [CloudConfig](configuration.md#cloudconfig) which mentions speci
 ```json
 {
   "CloudConfig" :{
-    "Zone": "us-west2-a",
+    "Zone": "westus2",
     "BucketName":"nanostest"
   }
 }
